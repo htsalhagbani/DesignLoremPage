@@ -107,6 +107,7 @@ li a:hover {
     background-color: rgb(244, 115, 199);
     border-left: 3px solid black;
     border-bottom: 3px solid black;
+    border-right: 3px solid black;
     border-radius: 8px;
     position: absolute;
     top: 34%;
@@ -169,6 +170,7 @@ li a:hover {
     background-color: rgb(244, 115, 199);
     border-left: 3px solid black;
     border-bottom: 3px solid black;
+    border-right: 3px solid black;
     border-radius: 8px;
     position: absolute;
     top: 34%;
