@@ -1,0 +1,213 @@
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 98vw; 
+  z-index: 1000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.continer1{
+    background-color: rgb(216, 211, 211); 
+    width: 98vw; 
+    height: 60vh;
+    position: relative;
+    top: 39px;
+}
+
+.paragraph{
+    width: 50vw;
+    height: 60vh;
+    position: absolute;
+}
+
+.image-two{
+    width: 49vw;
+    height: 60vh;
+    position: relative;
+    left: 50%;
+}
+
+.paragraph-style{
+    width: 40vw;
+    position: absolute;
+    left: 100px;
+    top: 120px;
+}
+
+.img1{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+
+.img2{
+    position: relative;
+    top: 150px;
+}
+
+.continer2{
+    width: 80vw; 
+    height: 90vh;
+    position: relative;
+    top: 40px;
+    left: 15%;
+
+}
+
+.div-green{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(162, 241, 165);
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 10%;
+    left: 9%;
+}
+
+.div-purpual{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(217, 162, 241);
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 22%;
+    left: 14%;
+
+}
+
+.div-pink{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(244, 115, 199);
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 34%;
+    left: 19%;
+
+}
+
+.div-darkgreen{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(86, 246, 110);
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 22%;
+    left: 24%;
+}
+
+.div-orange{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(246, 190, 86);
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 10%;
+    left: 29.5%;
+
+}
+
+.div-green2{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(162, 241, 165);
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 10%;
+    left: 38%;
+}
+
+.div-purpual1{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(217, 162, 241);
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 22%;
+    left: 43%;
+}
+
+.div-pink1{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(244, 115, 199);
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 34%;
+    left: 48%;
+
+}
+
+.div-darkgreen1{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(86, 246, 110);
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 22%;
+    left: 53%;
+}
+
+.div-orange1{
+    width: 5vw;
+    height: 10vh;
+    background-color: rgb(246, 190, 86);
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    border-radius: 8px;
+    position: absolute;
+    top: 9.5%;
+    left: 58%;
+
+}
+
+
+    /* Style the footer */
+footer {
+    background-color: #161515;
+    /* padding: 10px; */
+    height: 9vh;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+  }
